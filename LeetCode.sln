@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.0
+VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode", "LeetCode\LeetCode.vcxproj", "{007706FB-EEC5-4ECE-B601-66040C608CFE}"
 EndProject
@@ -14,6 +14,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "617. Merge Two Binary Trees", "617. Merge Two Binary Trees\617. Merge Two Binary Trees.vcxproj", "{DA1B1ECA-0E0D-439E-A4FE-D6AF2A3E6BB8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "561. Array Partition I", "561. Array Partition I\561. Array Partition I.vcxproj", "{9721F8A9-004C-41CF-96E9-3D02BD9CC013}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "476. Number Complement", "476. Number Complement\476. Number Complement.vcxproj", "{8D4337DD-FF26-44F6-85E0-079A6A8DAAE1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "557. Reverse Words in a String III", "557. Reverse Words in a String III\557. Reverse Words in a String III.vcxproj", "{4BB15A0F-4C6B-4AE6-B3F4-08DC80CE2EF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +75,22 @@ Global
 		{9721F8A9-004C-41CF-96E9-3D02BD9CC013}.Release|x64.Build.0 = Release|x64
 		{9721F8A9-004C-41CF-96E9-3D02BD9CC013}.Release|x86.ActiveCfg = Release|Win32
 		{9721F8A9-004C-41CF-96E9-3D02BD9CC013}.Release|x86.Build.0 = Release|Win32
+		{8D4337DD-FF26-44F6-85E0-079A6A8DAAE1}.Debug|x64.ActiveCfg = Debug|x64
+		{8D4337DD-FF26-44F6-85E0-079A6A8DAAE1}.Debug|x64.Build.0 = Debug|x64
+		{8D4337DD-FF26-44F6-85E0-079A6A8DAAE1}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D4337DD-FF26-44F6-85E0-079A6A8DAAE1}.Debug|x86.Build.0 = Debug|Win32
+		{8D4337DD-FF26-44F6-85E0-079A6A8DAAE1}.Release|x64.ActiveCfg = Release|x64
+		{8D4337DD-FF26-44F6-85E0-079A6A8DAAE1}.Release|x64.Build.0 = Release|x64
+		{8D4337DD-FF26-44F6-85E0-079A6A8DAAE1}.Release|x86.ActiveCfg = Release|Win32
+		{8D4337DD-FF26-44F6-85E0-079A6A8DAAE1}.Release|x86.Build.0 = Release|Win32
+		{4BB15A0F-4C6B-4AE6-B3F4-08DC80CE2EF2}.Debug|x64.ActiveCfg = Debug|x64
+		{4BB15A0F-4C6B-4AE6-B3F4-08DC80CE2EF2}.Debug|x64.Build.0 = Debug|x64
+		{4BB15A0F-4C6B-4AE6-B3F4-08DC80CE2EF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BB15A0F-4C6B-4AE6-B3F4-08DC80CE2EF2}.Debug|x86.Build.0 = Debug|Win32
+		{4BB15A0F-4C6B-4AE6-B3F4-08DC80CE2EF2}.Release|x64.ActiveCfg = Release|x64
+		{4BB15A0F-4C6B-4AE6-B3F4-08DC80CE2EF2}.Release|x64.Build.0 = Release|x64
+		{4BB15A0F-4C6B-4AE6-B3F4-08DC80CE2EF2}.Release|x86.ActiveCfg = Release|Win32
+		{4BB15A0F-4C6B-4AE6-B3F4-08DC80CE2EF2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
